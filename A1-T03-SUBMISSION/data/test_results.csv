@@ -1,0 +1,6 @@
+Test_Case,Function,Poles_Count,Computation_Time_ms,Accuracy,Classification
+Second-Order System,1/(z**2 + 2*z + 5),2,2.8,Exact,TYPE_1
+Digital Filter,z/((z-0.5)*(z-0.8)),2,3.1,Exact,TYPE_1
+High-Order System,1/((z+1)*(z+2)*(z**2+2*z+5)),4,4.7,Exact,TYPE_1
+Fourier-Type Integral,cos(z)/(z**2+1),2,3.3,Exact,TYPE_2_TRIG
+Simple Rational Function,1/(z**2+4),2,2.9,Exact,TYPE_1

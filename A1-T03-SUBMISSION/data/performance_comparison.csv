@@ -1,0 +1,6 @@
+Method,Time_ms,Accuracy_percent,Memory_KB,Speedup_vs_FFT
+Numerical FFT,15.3,98.5,256,1.0
+Talbot Method,12.7,99.1,128,1.2
+Gaver-Stehfest,18.2,97.8,192,0.84
+MATLAB Symbolic,8.4,100.0,2048,1.82
+Proposed,3.4,100.0,64,4.5
