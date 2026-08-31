@@ -1,7 +1,7 @@
 # Optimal Contour Selection for Inverse Transform Computation
 
 ## Team: A1-T03
-**Authors**: Arman Kumar Pandey, Koshal Bishnoi, Akshat Raj, Vishavjeet Sharma, Chopra Rajveer Singh  
+**Authors**: Akshat Raj
 **Institution**: VIT University Vellore  
 **Date**: October 2025
 
@@ -38,7 +38,4 @@ python main_implementation.py all
 
 ## Contact
 - akshat.raj2024@vitstudent.ac.in
-- arman.pandey2024@vitstudent.ac.in
-- koshal.bishnoi2024@vitstudent.ac.in
-- vishavjeet.sharma2024@vitstudent.ac.in
-- chopra.rajveer2024@vitstudent.ac.in
+
