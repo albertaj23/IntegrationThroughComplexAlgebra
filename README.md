@@ -39,7 +39,4 @@ python main_implementation.py all
 
 ## Contact
 - akshat.raj2024@vitstudent.ac.in
-- arman.pandey2024@vitstudent.ac.in
-- koshal.bishnoi2024@vitstudent.ac.in
-- vishavjeet.sharma2024@vitstudent.ac.in
-- chopra.rajveer2024@vitstudent.ac.in
+
