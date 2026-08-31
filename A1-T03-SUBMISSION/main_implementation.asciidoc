@@ -5,7 +5,7 @@
 Optimal Contour Selection for Real-Time Inverse Transform Computation
 Complete Implementation with Robust Pole Detection (Production-Ready)
 
-Authors: Arman Kumar Pandey, Koshal Bishnoi, Akshat Raj, Vishavjeet Sharma, Chopra Rajveer Singh
+Authors:Akshat Raj
 Institution: VIT University Vellore
 Date: 2025
 
@@ -1091,8 +1091,8 @@ if __name__ == "__main__":
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  CONTOUR INTEGRATION SYSTEM - RESEARCH PROJECT IMPLEMENTATION        ║
 ║  Optimal Contour Selection for Inverse Transform Computation         ║
-║  Authors: Arman Kumar Pandey, Koshal Bishnoi, Akshat Raj,            ║
-║           Vishavjeet Sharma, Chopra Rajveer Singh                    ║
+║  Author: Akshat Raj                                                  ║
+║                                                                      ║
 ║  Institution: VIT University Vellore                                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
     """)
